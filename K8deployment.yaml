@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: bhagyashree-banking-container
-        image: bhagyashreebaddoli/bhagyashreedevops:v1.0
+        image: bhagyashreebaddoli/bhagyashreedevops:latest
         ports:
         - containerPort: 8080
 ---
